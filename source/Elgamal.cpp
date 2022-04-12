@@ -100,12 +100,12 @@ void Elgamal::sample()
     mpz_t c1, c2;
     mpz_inits(c1, c2, NULL);
 
-    Elgamal::elg_enc(c1, c2, m, pk);
+    E.elg_enc(c1, c2, m, pk);
 
     gmp_printf("c1 = %Zd\n\n", c1);
     gmp_printf("c2 = %Zd\n\n", c2);
 
-    Elgamal::elg_dec(m, c1, c2, sk);
+    E.elg_dec(m, c1, c2, sk);
     gmp_printf("recover m = %Zd\n\n", m);
 }
 

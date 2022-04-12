@@ -1,3 +1,0 @@
-/home/rfli/Desktop/CppSource/Elgamal/build/CMakeFiles/test.dir
-/home/rfli/Desktop/CppSource/Elgamal/build/CMakeFiles/edit_cache.dir
-/home/rfli/Desktop/CppSource/Elgamal/build/CMakeFiles/rebuild_cache.dir
