@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/rfli/Desktop/CppSource/Elgamal/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/rfli/Desktop/CppSource/Elgamal/build/../header -g -std=gnu++11 -o CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o -c /home/rfli/Desktop/CppSource/Elgamal/source/test.cpp",
+  "file": "/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp"
+},
+{
+  "directory": "/home/rfli/Desktop/CppSource/Elgamal/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/rfli/Desktop/CppSource/Elgamal/build/../header -g -std=gnu++11 -o CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o -c /home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp",
+  "file": "/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp"
+}
+]

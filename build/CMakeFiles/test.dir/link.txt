@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9 -g CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o -o test   -L"/usr/local/lib ../source"  -Wl,-rpath,"/usr/local/lib ../source" -lgmp 
