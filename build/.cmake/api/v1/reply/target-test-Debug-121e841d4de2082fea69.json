@@ -12,8 +12,7 @@
 		[
 			"add_executable",
 			"link_directories",
-			"target_link_libraries",
-			"include_directories"
+			"target_link_libraries"
 		],
 		"files" : 
 		[
@@ -41,12 +40,6 @@
 				"file" : 0,
 				"line" : 10,
 				"parent" : 0
-			},
-			{
-				"command" : 3,
-				"file" : 0,
-				"line" : 11,
-				"parent" : 0
 			}
 		]
 	},
@@ -60,13 +53,6 @@
 				},
 				{
 					"fragment" : "-std=gnu++11"
-				}
-			],
-			"includes" : 
-			[
-				{
-					"backtrace" : 4,
-					"path" : "/home/rfli/Desktop/CppSource/Elgamal/build/../header"
 				}
 			],
 			"language" : "CXX",
@@ -138,13 +124,13 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp",
+			"path" : "/home/rfli/Desktop/CppSource/Elgamal/test.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp",
+			"path" : "/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

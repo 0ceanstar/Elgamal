@@ -4,7 +4,7 @@
 # compile CXX with /bin/x86_64-linux-gnu-g++-9
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/rfli/Desktop/CppSource/Elgamal/build/../header
+CXX_INCLUDES = 
 
 CXX_FLAGS = -g -std=gnu++11
 

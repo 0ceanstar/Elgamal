@@ -69,44 +69,44 @@ include CMakeFiles/test.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/test.dir/flags.make
 
-CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o: CMakeFiles/test.dir/flags.make
-CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o: /home/rfli/Desktop/CppSource/Elgamal/source/test.cpp
-CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o: CMakeFiles/test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rfli/Desktop/CppSource/Elgamal/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o"
-	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o -MF CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o.d -o CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o -c /home/rfli/Desktop/CppSource/Elgamal/source/test.cpp
+CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.o: CMakeFiles/test.dir/flags.make
+CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.o: /home/rfli/Desktop/CppSource/Elgamal/test.cpp
+CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.o: CMakeFiles/test.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rfli/Desktop/CppSource/Elgamal/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.o"
+	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.o -MF CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.o.d -o CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.o -c /home/rfli/Desktop/CppSource/Elgamal/test.cpp
 
-CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.i"
-	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rfli/Desktop/CppSource/Elgamal/source/test.cpp > CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.i
+CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.i"
+	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rfli/Desktop/CppSource/Elgamal/test.cpp > CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.i
 
-CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.s"
-	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rfli/Desktop/CppSource/Elgamal/source/test.cpp -o CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.s
+CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.s"
+	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rfli/Desktop/CppSource/Elgamal/test.cpp -o CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.s
 
-CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o: CMakeFiles/test.dir/flags.make
-CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o: /home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp
-CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o: CMakeFiles/test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rfli/Desktop/CppSource/Elgamal/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o"
-	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o -MF CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o.d -o CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o -c /home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp
+CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o: CMakeFiles/test.dir/flags.make
+CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o: /home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp
+CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o: CMakeFiles/test.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rfli/Desktop/CppSource/Elgamal/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o"
+	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o -MF CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o.d -o CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o -c /home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp
 
-CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.i"
-	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp > CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.i
+CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.i"
+	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp > CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.i
 
-CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.s"
-	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp -o CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.s
+CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.s"
+	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp -o CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.s
 
 # Object files for target test
 test_OBJECTS = \
-"CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o" \
-"CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o"
+"CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.o" \
+"CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o"
 
 # External object files for target test
 test_EXTERNAL_OBJECTS =
 
-test: CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o
-test: CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o
+test: CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.o
+test: CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o
 test: CMakeFiles/test.dir/build.make
 test: CMakeFiles/test.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/rfli/Desktop/CppSource/Elgamal/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable test"

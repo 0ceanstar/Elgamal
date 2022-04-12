@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp" "CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o" "gcc" "CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o.d"
-  "/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp" "CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o" "gcc" "CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o.d"
+  "/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp" "CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o" "gcc" "CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o.d"
+  "/home/rfli/Desktop/CppSource/Elgamal/test.cpp" "CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.o" "gcc" "CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.o.d"
   )
 
 # Targets to which this target links.

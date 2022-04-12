@@ -1,7 +1,7 @@
 #pragma once
-#include "Elgamal.h"
+#include"Elgamal.h"
 #include <vector>
-class thres_Elgamal : Elgamal
+class thres_Elgamal:Elgamal
 {
 public:
     thres_Elgamal();
@@ -32,4 +32,5 @@ public:
 
 private:
     std::vector<mpz_t> ti;
+    
 };

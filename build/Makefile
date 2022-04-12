@@ -129,53 +129,53 @@ test/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
 .PHONY : test/fast
 
-home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.o: home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o
-.PHONY : home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.o
+home/rfli/Desktop/CppSource/Elgamal/Elgamal.o: home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o
+.PHONY : home/rfli/Desktop/CppSource/Elgamal/Elgamal.o
 
 # target to build an object file
-home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o
-.PHONY : home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.o
+home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o
+.PHONY : home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.o
 
-home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.i: home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.i
-.PHONY : home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.i
+home/rfli/Desktop/CppSource/Elgamal/Elgamal.i: home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.i
+.PHONY : home/rfli/Desktop/CppSource/Elgamal/Elgamal.i
 
 # target to preprocess a source file
-home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.i
-.PHONY : home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.i
+home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.i
+.PHONY : home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.i
 
-home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.s: home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.s
-.PHONY : home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.s
+home/rfli/Desktop/CppSource/Elgamal/Elgamal.s: home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.s
+.PHONY : home/rfli/Desktop/CppSource/Elgamal/Elgamal.s
 
 # target to generate assembly for a file
-home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.s
-.PHONY : home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.cpp.s
+home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.s
+.PHONY : home/rfli/Desktop/CppSource/Elgamal/Elgamal.cpp.s
 
-home/rfli/Desktop/CppSource/Elgamal/source/test.o: home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o
-.PHONY : home/rfli/Desktop/CppSource/Elgamal/source/test.o
+home/rfli/Desktop/CppSource/Elgamal/test.o: home/rfli/Desktop/CppSource/Elgamal/test.cpp.o
+.PHONY : home/rfli/Desktop/CppSource/Elgamal/test.o
 
 # target to build an object file
-home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o
-.PHONY : home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.o
+home/rfli/Desktop/CppSource/Elgamal/test.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.o
+.PHONY : home/rfli/Desktop/CppSource/Elgamal/test.cpp.o
 
-home/rfli/Desktop/CppSource/Elgamal/source/test.i: home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.i
-.PHONY : home/rfli/Desktop/CppSource/Elgamal/source/test.i
+home/rfli/Desktop/CppSource/Elgamal/test.i: home/rfli/Desktop/CppSource/Elgamal/test.cpp.i
+.PHONY : home/rfli/Desktop/CppSource/Elgamal/test.i
 
 # target to preprocess a source file
-home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.i
-.PHONY : home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.i
+home/rfli/Desktop/CppSource/Elgamal/test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.i
+.PHONY : home/rfli/Desktop/CppSource/Elgamal/test.cpp.i
 
-home/rfli/Desktop/CppSource/Elgamal/source/test.s: home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.s
-.PHONY : home/rfli/Desktop/CppSource/Elgamal/source/test.s
+home/rfli/Desktop/CppSource/Elgamal/test.s: home/rfli/Desktop/CppSource/Elgamal/test.cpp.s
+.PHONY : home/rfli/Desktop/CppSource/Elgamal/test.s
 
 # target to generate assembly for a file
-home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.s
-.PHONY : home/rfli/Desktop/CppSource/Elgamal/source/test.cpp.s
+home/rfli/Desktop/CppSource/Elgamal/test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/home/rfli/Desktop/CppSource/Elgamal/test.cpp.s
+.PHONY : home/rfli/Desktop/CppSource/Elgamal/test.cpp.s
 
 # Help Target
 help:
@@ -186,12 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... test"
-	@echo "... home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.o"
-	@echo "... home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.i"
-	@echo "... home/rfli/Desktop/CppSource/Elgamal/source/Elgamal.s"
-	@echo "... home/rfli/Desktop/CppSource/Elgamal/source/test.o"
-	@echo "... home/rfli/Desktop/CppSource/Elgamal/source/test.i"
-	@echo "... home/rfli/Desktop/CppSource/Elgamal/source/test.s"
+	@echo "... home/rfli/Desktop/CppSource/Elgamal/Elgamal.o"
+	@echo "... home/rfli/Desktop/CppSource/Elgamal/Elgamal.i"
+	@echo "... home/rfli/Desktop/CppSource/Elgamal/Elgamal.s"
+	@echo "... home/rfli/Desktop/CppSource/Elgamal/test.o"
+	@echo "... home/rfli/Desktop/CppSource/Elgamal/test.i"
+	@echo "... home/rfli/Desktop/CppSource/Elgamal/test.s"
 .PHONY : help
 
 
